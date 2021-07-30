@@ -25,7 +25,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/igrigorik/heroku-buildpack-dart.git"
+            "url": "https://git.SomuTakuli/BinChecker"
         }
     ]
 }
