@@ -19,7 +19,7 @@
         },
         "DART_SDK_LINK": {
             "description": "The Dart SDK Link For Linux, For Environment Setup",
-            "required": false,
+            "required": true,
             "value": "https://storage.googleapis.com/dart-archive/channels/stable/release/2.10.4/sdk/dartsdk-linux-x64-release.zip"
         }
     },
