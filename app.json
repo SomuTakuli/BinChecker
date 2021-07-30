@@ -9,13 +9,13 @@
     "env": {
         "ChannelId": {
             "description": "The Id Of The Channel Where Users Will Join To Use The Bot.",
-            "required": false,
-            "value": ""
+            "required": true,
+            "value": "-1001584086022"
         },
         "BotToken": {
             "description": "The Token Of The Bot.",
             "required": true,
-            "value": ""
+            "value": "1911459024:AAHoobq5YGuD2sLm9Qc31sgJMsO3UfjgEVQ"
         },
         "DART_SDK_LINK": {
             "description": "The Dart SDK Link For Linux, For Environment Setup",
